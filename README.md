@@ -9,5 +9,5 @@ Here are the files:
 [JAD](https://raw.githubusercontent.com/woodie/gcalendar/master/dist/Gclendar.jad),
 [JAR](https://raw.githubusercontent.com/woodie/gcalendar/master/dist/Gclendar.jar)
 
-<img src="https://raw.githubusercontent.com/woodie/gcalendar/master/docs/icons.jpg" width="250">
-<img src="https://raw.githubusercontent.com/woodie/gcalendar/master/docs/gcal.jpg" width="250">
+<img src="https://raw.githubusercontent.com/woodie/gcalendar/master/docs/icons.jpg" width="250"> <img
+     src="https://raw.githubusercontent.com/woodie/gcalendar/master/docs/gcal.jpg" width="250">
